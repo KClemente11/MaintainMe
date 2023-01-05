@@ -1,4 +1,13 @@
+h1, h2{
+    display: flex;
+    justify-content: center;
+}
+
 h2{
     color: #ffd700;
     font-size: 50px;
+}
+#email-form{
+    display: flex;
+    justify-content: center;
 }
